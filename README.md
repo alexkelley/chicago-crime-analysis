@@ -33,6 +33,8 @@ Total sample size (6,468,080) divided by the number of predictors (6) = 1,078,01
 
 ## Final model
 
+[SAS code](https://github.com/alexkelley/chicago-crime-analysis/blob/master/chicago_crimes_code.sas)
+
 log(p-hat/ (1-p-hat)) = -0.7958 - 0.0144 warm + 0.8177 outside + 0.3587 arrest_bin + 0.1475 warm*outside + 0.0556 warm*arrest_bin - 1.5889 outside*arrest_bin
 
 Where:
