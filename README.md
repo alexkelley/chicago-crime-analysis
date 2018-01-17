@@ -53,7 +53,7 @@ Where:
 
 The AIC and SC values are high and the associated p-value is very low which all indicate that the model is a good fit to the data.
 
-In analysing the Beta coefficients, H<sub>0</sub>: p<sub>j</sub>=0 and H<sub>a</sub>:p<sub>j</sub><>0.  To analyze goodness-of-fit, I looked to the Likelihood Ratio Test.  From the chart, we see that the LR of 214,013.197 is high and that the p-value of < 0.0001 for LR is almost zero so we can reject the null hypothesis that all parameters in the the model are equal to zero.
+In analysing the Beta coefficients, H<sub>0</sub>: p<sub>j</sub>=0 and H<sub>a</sub>: p<sub>j</sub><>0.  To analyze goodness-of-fit, I looked to the Likelihood Ratio Test.  From the chart, we see that the LR of 214,013.197 is high and that the p-value of < 0.0001 for LR is almost zero so we can reject the null hypothesis that all parameters in the the model are equal to zero.
 
 ### Classification Matrix
 
